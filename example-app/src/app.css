@@ -1,0 +1,17 @@
+.wbModal-body-container {
+    padding: 10px;
+}
+.wbModal-body-container > div {
+    margin-top: 10px;
+}
+.wbModal-body-container textarea {
+    width: 98%;
+    resize: none;
+}
+.extra-body-styles button {
+    cursor: pointer;
+}
+.processed-display > div {
+    border: 1px solid lightcoral;
+    margin: 10px;
+}
